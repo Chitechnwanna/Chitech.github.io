@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
----
+title: About me
+I am cyber security specialist
 
 ## About
 
